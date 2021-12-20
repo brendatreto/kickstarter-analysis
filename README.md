@@ -4,6 +4,8 @@
 Louise, an aspiring playwright, wants help planning a successful crowdfunding campaign. Analyzing this data will help her identify factors that could make her campaign a success and avoid any possible mistakes. In this project we will help Louise determine the role that factors such as the the type of project, launch date, goal and lenght, play in the outcome. The given data encompasses important information, but without the proper analysis it has little to no use.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/22451540/146819041-0254eb5c-f812-466d-b2c5-92952842a64a.png)
+
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
 ## Results
