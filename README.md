@@ -11,7 +11,10 @@ For the first part of the analysis we tried to find the relationship between the
 ![Launch date_pivot](https://user-images.githubusercontent.com/22451540/146825776-bf909803-77c7-44b4-9bf5-19aac741356a.PNG)
 4. To continue the analysis, we made a chart to visualize the relationship between outcome and the month the campaing was launched.
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/22451540/146819041-0254eb5c-f812-466d-b2c5-92952842a64a.png)
-
+5. This line chart was helpful to discover trends based on months. Have we used a different chart (pie or bar), we would not have been able to discern pattern in the behavior of campaigns over the year.
+After this process was completed we found out that:
+* Campaigns launched on May have higher success rates than those launched on December.
+* Campaigns launched on October have a hight tendency of failure.
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
 ## Results
