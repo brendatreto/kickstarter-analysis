@@ -15,6 +15,7 @@ For the first part of the analysis we tried to find the relationship between the
 After this process was completed we found out that:
 * Campaigns launched on May have higher success rates than those launched on December.
 * Campaigns launched on October have a hight tendency of failure.
+* We can observe that althought successful campaigns have higher results
 ### Analysis of Outcomes Based on Goals
 ### Challenges and Difficulties Encountered
 ## Results
