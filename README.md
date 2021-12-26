@@ -15,8 +15,14 @@ For the first part of the analysis we tried to find the relationship between the
 After this process was completed we found out that:
 * Campaigns launched on May have higher success rates than those launched on December.
 * Campaigns launched on October have a hight tendency of failure.
-* We can observe that althought successful campaigns have higher results
+* We can observe that althought successful campaigns have higher rates, failed campaigns follow a similar trend with peaks in the months of February, May, and October and decreases in the months of March, September and December. Further research needs to be done to fully understand the causes of this behavior.
 ### Analysis of Outcomes Based on Goals
+To continue with the process, we organized the information to be displayed based on goals and its relationship with succesful and failed campaigns. By doing this, we tried to visualize whether the goal set was a factor in the outcome. The information was organized as follows:
+![Outcomes Based on Goal](https://user-images.githubusercontent.com/22451540/147399418-431d12f4-b7bc-441c-b5c3-d0e17ce15b28.PNG)
+We started by setting ranges to analyze the goal. These ranges varied from less than 1000 to more than 50,000 US dollars. We continued the process using the countif function to calculate the amount of successful campaigns that met the criteria of goal amount and subcategory of plays. We adjusted the formula in the different rows to match the range and in the different columns to match the outcome of the campaign. Then, we quantified the percentage of this outcomes in relation to the total of campaigns that shared a goal. This gave us a chart with clean data and specific information. 
+The next step was to select a chart to display this new information. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/22451540/147399516-d47e2225-e2e4-43a9-a134-f8aaea91ebd5.png)
+A line chart was used because we wanted to see how the percentage of outcomes varied along the different ranges set. Because we used percentages, and there were zero canceled projects, these results mirrored each other. However, we can still appreciate that there are certain goals set where campaigns have higher chance to be successful and that is, when the amount is less than 1,000 or from 35,000 to 44,999. And we can also see that the higher the amoung the greater is the chance of failure. 
 ### Challenges and Difficulties Encountered
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
