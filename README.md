@@ -29,6 +29,12 @@ A line chart was used because we wanted to see how the percentage of outcomes va
 The biggest challenge I encountered was in managing such a big set of information. I am aware that this is small in comparion to what I will be able to do in a few months, nevertheless, it was an adjustment. The easiest way to overcome this challenge was to break down the information and follow step by step the directions to get to the expected result. Once I finished with the suggested activities, I created a copy of the file to play with the data and try to understand the different ways in which it could have been analyzed.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. Most successful campaigns seem to happen around the months of summer.
+2. Overall, theater campaigns tend to be successful
 - What can you conclude about the Outcomes based on Goals?
+Greater goals should be avoided because they have grater chances of resulting in failure. It is easier to get successful results with smaller goals, but we need to take into consideration if this amounts are enough for the desired project. 
 - What are some limitations of this dataset?
+Althought the blurb of the project is important to understand the nature of the campaign it could have been useful to cateogrize  this information and use it in a quantitative manner to see if it had any relation with the outcome.
 - What are some other possible tables and/or graphs that we could create?
+- - It would have been interesting to match the outcomes with launch date and goal, in order to find a relationship between this to variables.
+- - Perhaps it would have been wise to analyze the outcomes based on launch date using percentages as well. This could help us analyze the number of campaigns that were launched each month using the same baseline.
