@@ -26,6 +26,7 @@ The next step was to select a chart to display this new information.
 
 A line chart was used because we wanted to see how the percentage of outcomes varied along the different ranges set. Because we used percentages, and there were zero canceled projects, these results mirrored each other. However, we can still appreciate that there are certain goals set where campaigns have higher chance to be successful and that is, when the amount is less than 1,000 or from 35,000 to 44,999. And we can also see that the higher the amoung the greater is the chance of failure. 
 ### Challenges and Difficulties Encountered
+The biggest challenge I encountered was in managing such a big set of information. I am aware that this is small in comparion to what I will be able to do in a few months, nevertheless, it was an adjustment. The easiest way to overcome this challenge was to break down the information and follow step by step the directions to get to the expected result. Once I finished with the suggested activities, I created a copy of the file to play with the data and try to understand the different ways in which it could have been analyzed.
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 - What can you conclude about the Outcomes based on Goals?
